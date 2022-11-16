@@ -1,6 +1,6 @@
-a = float(input("first side:"))
-b = float (input("first side:"))
-c = float (input("first side:"))
+a = float(input("a side:"))
+b = float (input("b side:"))
+c = float (input("c side:"))
 
 if c+b>a and a+c>b and a+b>c :
     print("possible :) ")
